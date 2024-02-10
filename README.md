@@ -1,6 +1,6 @@
 # Minha "Linktree"
 
-<a href="https://www.zacchello.site/automatizacoes">
+<a href="https://www.zacchello.site/linktree">
   <img src="https://i.imgur.com/DNmox1y.png" alt="Linktree Caseira">
 </a>
 
